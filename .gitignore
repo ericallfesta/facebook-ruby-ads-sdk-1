@@ -21,4 +21,6 @@ autogen_docs_config.json
 /.idea
 /.tox
 *.swp
-*.swo
+*.swo/public/packs
+/public/packs-test
+/node_modules

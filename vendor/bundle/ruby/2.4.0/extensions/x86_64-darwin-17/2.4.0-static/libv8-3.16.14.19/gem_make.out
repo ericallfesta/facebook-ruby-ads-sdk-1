@@ -1,0 +1,13 @@
+current directory: /Users/kurazonosho/facebook-ruby-ads-sdk-1/vendor/bundle/ruby/2.4.0/gems/libv8-3.16.14.19/ext/libv8
+/Users/kurazonosho/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20171214-93417-12jg7kq.rb extconf.rb --with-system-v8
+creating Makefile
+
+current directory: /Users/kurazonosho/facebook-ruby-ads-sdk-1/vendor/bundle/ruby/2.4.0/gems/libv8-3.16.14.19/ext/libv8
+make "DESTDIR=" clean
+
+current directory: /Users/kurazonosho/facebook-ruby-ads-sdk-1/vendor/bundle/ruby/2.4.0/gems/libv8-3.16.14.19/ext/libv8
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/kurazonosho/facebook-ruby-ads-sdk-1/vendor/bundle/ruby/2.4.0/gems/libv8-3.16.14.19/ext/libv8
+make "DESTDIR=" install
